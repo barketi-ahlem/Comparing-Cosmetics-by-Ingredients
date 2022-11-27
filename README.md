@@ -13,14 +13,14 @@ This Project lets you apply the skills from Manipulating DataFrames with pandas,
 
 Project Tasks
 
-<!--1.Cosmetics, chemicals... it's complicated -->
-2.Focus on one product category and one skin type
-3.Tokenizing the ingredients
-4.Initializing a document-term matrix (DTM)
-5.Creating a counter function
-6.The Cosmetic-Ingredient matrix!
-7.Dimension reduction with t-SNE
-8.Let's map the items with Bokeh
-9.Adding a hover tool
-10.Mapping the cosmetic items
-11.Comparing two products
+<!-- 1.Cosmetics, chemicals... it's complicated -->
+<!-- 2.Focus on one product category and one skin type
+<!-- 3.Tokenizing the ingredients
+<!-- 4.Initializing a document-term matrix (DTM)
+<!-- 5.Creating a counter function
+<!-- 6.The Cosmetic-Ingredient matrix!
+<!-- 7.Dimension reduction with t-SNE
+<!-- 8.Let's map the items with Bokeh<!-- 
+<!-- 9.Adding a hover tool -->
+<!-- 10.Mapping the cosmetic items -->
+<!-- 11.Comparing two products -->
