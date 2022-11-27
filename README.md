@@ -13,7 +13,7 @@ This Project lets you apply the skills from Manipulating DataFrames with pandas,
 
 Project Tasks
 
-<-- 1.Cosmetics, chemicals... it's complicated -->
+ 1.Cosmetics, chemicals... it's complicated
 2.Focus on one product category and one skin type
 3.Tokenizing the ingredients
 4.Initializing a document-term matrix (DTM)
